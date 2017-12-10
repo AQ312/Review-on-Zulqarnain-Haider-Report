@@ -1,0 +1,13 @@
+This Report depicts that the number of experiments performed by the author is well formed and good to go. The procedure followed in overall report to investigate
+the scenario of the problem is good but the number of assumptions & hypothesis could be improved. I am going to elaborate some points that needs to be revised
+and it will definitely help the reader to understand the given solution.
+
+Font & Layout Style:
+The size of all the paragraphs & headings must be same. To make the report more clear, try to use justified alignment.
+
+Introductory Part:
+As, intro is a very important part that shows the reader, how much understanding does the author has about the given problem. Well, the introductory part contains a very less explanation about the given problem disease in this report. Background knowledge is too short, that shows the author
+lacks to the understanding of the given problem. So, it could be improve. AS far as experiments are concerned, they are accurate
+
+Verdict:
+Well! The result of experiments, are well analyzed & self explanatory.
